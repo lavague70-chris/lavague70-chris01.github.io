@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI 연구실",
+      "emoji": "🤖",
+      "desc": "요즘 실험 중인 AI"
+    },
+    {
+      "id": "sewing",
+      "name": "재봉 공방",
+      "emoji": "🧵",
+      "desc": "재봉틀 앞에서 보낸 시간"
+    },
+    {
+      "id": "walk",
+      "name": "구경 산책",
+      "emoji": "👀",
+      "desc": "구경만 해도 즐거운 것들"
+    }
+  ],
+  "items": [
+    {
+      "category": "ai",
+      "title": "Claude 모션그래픽으로 '강의소개 영상' 만들기",
+      "memo": "양천구 수업 소개 영상을 Claude 모션그래픽으로 만들었어요.",
+      "link": "",
+      "image": "",
+      "video": "images/ai-intro.mp4",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "sewing",
+      "title": "앞치마 만들기",
+      "memo": "원단은 포목광에서 구매했어요.",
+      "link": "",
+      "image": "images/sewing-apron.jpg",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "walk",
+      "title": "국립중앙박물관 전시회",
+      "memo": "국보展 순회전 (2026.5. ~ 2026.11.)",
+      "link": "https://www.museum.go.kr",
+      "image": "images/walk-museum.jpg",
+      "date": "2026-10-26"
+    }
+  ]
+}
